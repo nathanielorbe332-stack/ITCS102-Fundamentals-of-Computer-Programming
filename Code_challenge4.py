@@ -2,8 +2,8 @@ print("================================LOGIN====================================
 
 import getpass
 
-username = "Zedrick"
-password = "Umbrete"
+username = "Nathaniel"
+password = "Orbe"
 
 u = input("\t\tPlease, enter your username: ")
 p = getpass.getpass("\t\tPlease, enter your password: ")
