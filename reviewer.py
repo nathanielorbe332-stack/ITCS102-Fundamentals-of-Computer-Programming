@@ -1,4 +1,4 @@
-#exercise
+#reviewerninat
 
 owner_age = int(input("Enter your age: "))
 rev = float(input("Enter your monthly revenue: "))
